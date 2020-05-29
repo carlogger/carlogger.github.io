@@ -1,0 +1,23 @@
+h1 {
+    font-size: 40px;
+    font-family: 'Orbitron';
+    font-weight: bold;
+}
+body {
+    background: #ddd;
+    margin: 0;
+}
+#banner {
+    text-align: center;
+    background-color: #041a3d;
+    padding: 1px 0;
+    color: #ddd;
+}
+a {
+    font-family: 'Roboto';
+    font-size: 18px;
+    text-decoration: none;
+}
+a:visited {
+    color: blue;
+}
